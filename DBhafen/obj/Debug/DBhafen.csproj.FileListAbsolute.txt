@@ -1,0 +1,113 @@
+c:\users\ines\documents\visual studio 2015\Projects\DBhafen\DBhafen\bin\ApplicationInsights.config
+c:\users\ines\documents\visual studio 2015\Projects\DBhafen\DBhafen\bin\roslyn\csc.exe
+c:\users\ines\documents\visual studio 2015\Projects\DBhafen\DBhafen\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\ines\documents\visual studio 2015\Projects\DBhafen\DBhafen\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\ines\documents\visual studio 2015\Projects\DBhafen\DBhafen\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\ines\documents\visual studio 2015\Projects\DBhafen\DBhafen\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\ines\documents\visual studio 2015\Projects\DBhafen\DBhafen\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\ines\documents\visual studio 2015\Projects\DBhafen\DBhafen\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\ines\documents\visual studio 2015\Projects\DBhafen\DBhafen\bin\roslyn\System.Collections.Immutable.dll
+c:\users\ines\documents\visual studio 2015\Projects\DBhafen\DBhafen\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\ines\documents\visual studio 2015\Projects\DBhafen\DBhafen\bin\roslyn\vbc.exe
+c:\users\ines\documents\visual studio 2015\Projects\DBhafen\DBhafen\bin\roslyn\VBCSCompiler.exe
+c:\users\ines\documents\visual studio 2015\Projects\DBhafen\DBhafen\bin\roslyn\VBCSCompiler.exe.config
+c:\users\ines\documents\visual studio 2015\Projects\DBhafen\DBhafen\bin\DBhafen.dll.config
+c:\users\ines\documents\visual studio 2015\Projects\DBhafen\DBhafen\bin\DBhafen.dll
+c:\users\ines\documents\visual studio 2015\Projects\DBhafen\DBhafen\bin\DBhafen.pdb
+c:\users\ines\documents\visual studio 2015\Projects\DBhafen\DBhafen\bin\Microsoft.AI.Agent.Intercept.dll
+c:\users\ines\documents\visual studio 2015\Projects\DBhafen\DBhafen\bin\Microsoft.AI.DependencyCollector.dll
+c:\users\ines\documents\visual studio 2015\Projects\DBhafen\DBhafen\bin\Microsoft.AI.PerfCounterCollector.dll
+c:\users\ines\documents\visual studio 2015\Projects\DBhafen\DBhafen\bin\Microsoft.AI.ServerTelemetryChannel.dll
+c:\users\ines\documents\visual studio 2015\Projects\DBhafen\DBhafen\bin\Microsoft.AI.Web.dll
+c:\users\ines\documents\visual studio 2015\Projects\DBhafen\DBhafen\bin\Microsoft.AI.WindowsServer.dll
+c:\users\ines\documents\visual studio 2015\Projects\DBhafen\DBhafen\bin\Microsoft.ApplicationInsights.dll
+c:\users\ines\documents\visual studio 2015\Projects\DBhafen\DBhafen\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\ines\documents\visual studio 2015\Projects\DBhafen\DBhafen\bin\Microsoft.AI.DependencyCollector.xml
+c:\users\ines\documents\visual studio 2015\Projects\DBhafen\DBhafen\bin\Microsoft.AI.ServerTelemetryChannel.xml
+c:\users\ines\documents\visual studio 2015\Projects\DBhafen\DBhafen\bin\Microsoft.AI.Web.xml
+c:\users\ines\documents\visual studio 2015\Projects\DBhafen\DBhafen\bin\Microsoft.AI.WindowsServer.xml
+c:\users\ines\documents\visual studio 2015\Projects\DBhafen\DBhafen\bin\Microsoft.ApplicationInsights.xml
+c:\users\ines\documents\visual studio 2015\Projects\DBhafen\DBhafen\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\ines\documents\visual studio 2015\Projects\DBhafen\DBhafen\obj\Debug\DBhafen.csprojResolveAssemblyReference.cache
+c:\users\ines\documents\visual studio 2015\Projects\DBhafen\DBhafen\obj\Debug\DBhafen.dll
+c:\users\ines\documents\visual studio 2015\Projects\DBhafen\DBhafen\obj\Debug\DBhafen.pdb
+C:\Users\braun\Desktop\DBhafen\DBhafen\bin\ApplicationInsights.config
+C:\Users\braun\Desktop\DBhafen\DBhafen\bin\roslyn\csc.exe
+C:\Users\braun\Desktop\DBhafen\DBhafen\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\braun\Desktop\DBhafen\DBhafen\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\braun\Desktop\DBhafen\DBhafen\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\braun\Desktop\DBhafen\DBhafen\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\braun\Desktop\DBhafen\DBhafen\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\braun\Desktop\DBhafen\DBhafen\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\braun\Desktop\DBhafen\DBhafen\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\braun\Desktop\DBhafen\DBhafen\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\braun\Desktop\DBhafen\DBhafen\bin\roslyn\vbc.exe
+C:\Users\braun\Desktop\DBhafen\DBhafen\bin\roslyn\VBCSCompiler.exe
+C:\Users\braun\Desktop\DBhafen\DBhafen\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\braun\Desktop\DBhafen\DBhafen\bin\DBhafen.dll.config
+C:\Users\braun\Desktop\DBhafen\DBhafen\bin\DBhafen.dll
+C:\Users\braun\Desktop\DBhafen\DBhafen\bin\DBhafen.pdb
+C:\Users\braun\Desktop\DBhafen\DBhafen\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\braun\Desktop\DBhafen\DBhafen\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\braun\Desktop\DBhafen\DBhafen\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\braun\Desktop\DBhafen\DBhafen\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\braun\Desktop\DBhafen\DBhafen\bin\Microsoft.AI.Web.dll
+C:\Users\braun\Desktop\DBhafen\DBhafen\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\braun\Desktop\DBhafen\DBhafen\bin\Microsoft.ApplicationInsights.dll
+C:\Users\braun\Desktop\DBhafen\DBhafen\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\braun\Desktop\DBhafen\DBhafen\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\braun\Desktop\DBhafen\DBhafen\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\braun\Desktop\DBhafen\DBhafen\bin\Microsoft.AI.Web.xml
+C:\Users\braun\Desktop\DBhafen\DBhafen\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\braun\Desktop\DBhafen\DBhafen\bin\Microsoft.ApplicationInsights.xml
+C:\Users\braun\Desktop\DBhafen\DBhafen\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\braun\Desktop\DBhafen\DBhafen\obj\Debug\DBhafen.csprojAssemblyReference.cache
+C:\Users\braun\Desktop\DBhafen\DBhafen\obj\Debug\DBhafen.csproj.CoreCompileInputs.cache
+C:\Users\braun\Desktop\DBhafen\DBhafen\obj\Debug\DBhafen.csproj.CopyComplete
+C:\Users\braun\Desktop\DBhafen\DBhafen\obj\Debug\DBhafen.dll
+C:\Users\braun\Desktop\DBhafen\DBhafen\obj\Debug\DBhafen.pdb
+C:\Users\braun\Desktop\Stuff\Development\DBhafen\DBhafen\bin\ApplicationInsights.config
+C:\Users\braun\Desktop\Stuff\Development\DBhafen\DBhafen\bin\roslyn\csc.exe
+C:\Users\braun\Desktop\Stuff\Development\DBhafen\DBhafen\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\braun\Desktop\Stuff\Development\DBhafen\DBhafen\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\braun\Desktop\Stuff\Development\DBhafen\DBhafen\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\braun\Desktop\Stuff\Development\DBhafen\DBhafen\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\braun\Desktop\Stuff\Development\DBhafen\DBhafen\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\braun\Desktop\Stuff\Development\DBhafen\DBhafen\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\braun\Desktop\Stuff\Development\DBhafen\DBhafen\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\braun\Desktop\Stuff\Development\DBhafen\DBhafen\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\braun\Desktop\Stuff\Development\DBhafen\DBhafen\bin\roslyn\vbc.exe
+C:\Users\braun\Desktop\Stuff\Development\DBhafen\DBhafen\bin\roslyn\VBCSCompiler.exe
+C:\Users\braun\Desktop\Stuff\Development\DBhafen\DBhafen\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\braun\Desktop\Stuff\Development\DBhafen\DBhafen\bin\DBhafen.dll.config
+C:\Users\braun\Desktop\Stuff\Development\DBhafen\DBhafen\bin\DBhafen.dll
+C:\Users\braun\Desktop\Stuff\Development\DBhafen\DBhafen\bin\DBhafen.pdb
+C:\Users\braun\Desktop\Stuff\Development\DBhafen\DBhafen\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\braun\Desktop\Stuff\Development\DBhafen\DBhafen\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\braun\Desktop\Stuff\Development\DBhafen\DBhafen\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\braun\Desktop\Stuff\Development\DBhafen\DBhafen\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\braun\Desktop\Stuff\Development\DBhafen\DBhafen\bin\Microsoft.AI.Web.dll
+C:\Users\braun\Desktop\Stuff\Development\DBhafen\DBhafen\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\braun\Desktop\Stuff\Development\DBhafen\DBhafen\bin\Microsoft.ApplicationInsights.dll
+C:\Users\braun\Desktop\Stuff\Development\DBhafen\DBhafen\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\braun\Desktop\Stuff\Development\DBhafen\DBhafen\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\braun\Desktop\Stuff\Development\DBhafen\DBhafen\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\braun\Desktop\Stuff\Development\DBhafen\DBhafen\bin\Microsoft.AI.Web.xml
+C:\Users\braun\Desktop\Stuff\Development\DBhafen\DBhafen\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\braun\Desktop\Stuff\Development\DBhafen\DBhafen\bin\Microsoft.ApplicationInsights.xml
+C:\Users\braun\Desktop\Stuff\Development\DBhafen\DBhafen\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\braun\Desktop\Stuff\Development\DBhafen\DBhafen\obj\Debug\DBhafen.csprojAssemblyReference.cache
+C:\Users\braun\Desktop\Stuff\Development\DBhafen\DBhafen\obj\Debug\DBhafen.csproj.CoreCompileInputs.cache
+C:\Users\braun\Desktop\Stuff\Development\DBhafen\DBhafen\obj\Debug\DBhafen.csproj.CopyComplete
+C:\Users\braun\Desktop\Stuff\Development\DBhafen\DBhafen\obj\Debug\DBhafen.dll
+C:\Users\braun\Desktop\Stuff\Development\DBhafen\DBhafen\obj\Debug\DBhafen.pdb
+C:\Users\braun\Desktop\Stuff\Development\DBhafen\DBhafen\bin\DiscordSharp.dll
+C:\Users\braun\Desktop\Stuff\Development\DBhafen\DBhafen\bin\NAudio.dll
+C:\Users\braun\Desktop\Stuff\Development\DBhafen\DBhafen\bin\Newtonsoft.Json.dll
+C:\Users\braun\Desktop\Stuff\Development\DBhafen\DBhafen\bin\websocket-sharp.dll
+C:\Users\braun\Desktop\Stuff\Development\DBhafen\DBhafen\bin\WebSocket4Net.dll
+C:\Users\braun\Desktop\Stuff\Development\DBhafen\DBhafen\bin\DiscordSharp.pdb
+C:\Users\braun\Desktop\Stuff\Development\DBhafen\DBhafen\bin\DiscordSharp.xml
+C:\Users\braun\Desktop\Stuff\Development\DBhafen\DBhafen\bin\NAudio.xml
+C:\Users\braun\Desktop\Stuff\Development\DBhafen\DBhafen\bin\Newtonsoft.Json.xml
+C:\Users\braun\Desktop\Stuff\Development\DBhafen\DBhafen\bin\websocket-sharp.xml
